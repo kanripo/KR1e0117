@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳小疏
-#+DATE: 2015-09-23 09:40:43
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:17:42.890936
+#+PROPERTY: ID KR1e0117
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 春秋左傳小疏
 <pb:KR1e0117_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋左傳小疏¶
@@ -386,4 +388,3 @@
 　¶
 　¶
 　春秋左傳小疏¶
-
